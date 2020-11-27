@@ -1,7 +1,5 @@
-package com.isograd.exercise;
+package com.isograd.exercise2020;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Exo3 {

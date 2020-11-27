@@ -1,4 +1,4 @@
-package com.isograd.exercise;
+package com.isograd.exercise2020;
 
 import org.junit.jupiter.api.Test;
 
